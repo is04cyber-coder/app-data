@@ -1,0 +1,30 @@
+[
+  {
+    "modelName": "A.J.K.O  \"CHICAGO\"",
+    "modelColor": "WHITE/BLACK/GYM RED",
+    "searchKeywords": "ジョーダン KO シカゴ キャンバス ",
+    "ecSearchKeywords": "jordan1 KO 1986",
+    "releaseYear": 1986,
+    "sku": "9701",
+    "storageKey": "AJKO_1_CHICAGO_1986",
+    "story": "1986年前後に登場した、レザーの代わりにキャンバス素材を採用したAJの派生モデル。通称\"AJKO\"。象徴的なシカゴカラーを纏い、ヒールロゴが「AJKO」となっているのが最大の特徴。",
+    "purchaseDate": "1986",
+    "purchasePrice": "---",
+    "gender": "M",
+    "types": ["OR"]
+  },
+  {
+    "modelName": "A.J.K.O  \"Bred\"",
+    "modelColor": "BLACK/RED",
+    "searchKeywords": "ジョーダン KO ブレッド キャンバス ",
+    "ecSearchKeywords": "jordan1 KO 1986",
+    "releaseYear": 1986,
+    "sku": "4261",
+    "storageKey": "AJKO_1_BRED_1986",
+    "story": "1986年前後に登場した、レザーの代わりにキャンバス素材を採用したAJの派生モデル。通称\"AJKO\"。象徴的なブレッドカラーを纏い、ヒールロゴが「AJKO」となっているのが最大の特徴。",
+    "purchaseDate": "1986",
+    "purchasePrice": "---",
+    "gender": "M",
+    "types": ["OR"]
+  }
+]

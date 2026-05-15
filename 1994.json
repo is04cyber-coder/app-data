@@ -1,0 +1,30 @@
+[
+  {
+    "modelName": "Air Jordan 1 High  \"Chicago\" (1994)",
+    "modelColor": "white/black-red",
+    "searchKeywords": "シカゴ しかご",
+    "ecSearchKeywords": "jordan1 chicago 1994",
+    "releaseYear": 1994,
+    "sku": "130207-101",
+    "storageKey": "RETRO_1994_CHICAGO",
+    "story": "オリジナル発売から約10年後に登場した初の復刻モデル。専用の復刻ボックスやブックレットが付属した記念碑的一足。",
+    "purchaseDate": "1994/01/01",
+    "purchasePrice": "¥15,800",
+    "gender": "M",
+    "types": ["RETRO"]
+  },
+  {
+    "modelName": "Air Jordan 1 High  \"Bred\" (1994)",
+    "modelColor": "Black/Red",
+    "searchKeywords": "ブレッド ぶれっど",
+    "ecSearchKeywords": "jordan1 bred  1994",
+    "releaseYear": 1994,
+    "sku": "130207-061",
+    "storageKey": "RETRO_1994_BRED",
+    "story": "1994年にChicagoと共に復刻。当時のクオリティやフォルムはオリジナルの再現度が非常に高く、コレクターに愛される名作。",
+    "purchaseDate": "1994/01/01",
+    "purchasePrice": "¥15,800",
+    "gender": "M",
+    "types": ["RETRO"]
+  }
+]
