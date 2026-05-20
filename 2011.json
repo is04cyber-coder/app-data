@@ -8,8 +8,8 @@
     "sku": "432001-001",
     "storageKey": "RETRO_2011_BANNED",
     "story": "ヒールに刻印された「X」マークが象徴的な一足。米国の工場直営アウトレットのみで極少数がゲリラ発売された伝説のモデル。日本未発売",
-    "purchaseDate": "2011/06/02",
-    "purchasePrice": "$125",
+    "releaseDate": "2011/06/02",
+    "releasePrice": "$125",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -22,8 +22,8 @@
     "sku": "332550-104",
     "storageKey": "RETRO_2011_V_ROYAL",
     "story": "鮮やかなバーシティロイヤルを全身に纏った一足。この時期のAJ1らしいパキッとした発色が特徴。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -36,8 +36,8 @@
     "sku": "332550-100",
     "storageKey": "RETRO_2011_V_RED",
     "story": "情熱的な赤が映えるモデル。ロイヤル、グリーンと共に2011年のカラーシリーズとして展開。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -50,8 +50,8 @@
     "sku": "332550-107",
     "storageKey": "RETRO_2011_GREEN",
     "story": "深みのあるグリーンをベースにしたカラー。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -64,8 +64,8 @@
     "sku": "332550-105",
     "storageKey": "RETRO_2011_NAVY",
     "story": "ホワイトベースにミッドナイトネイビーを合わせた、非常にクリーンな印象の一足。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -78,8 +78,8 @@
     "sku": "332550-102",
     "storageKey": "RETRO_2011_MAIZE",
     "story": "鮮やかなメイズ（イエロー）カラー。ストリートでも目立つ、2011年を象徴するポップな配色。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -92,8 +92,8 @@
     "sku": "332550-103",
     "storageKey": "RETRO_2011_UNC",
     "story": "ジョーダンの母校、ノースカロライナ大学（UNC）のチームカラーを彷彿とさせる一足。日本未発売",
-    "purchaseDate": "2011/08/06",
-    "purchasePrice": "$110",
+    "releaseDate": "2011/08/06",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -106,8 +106,8 @@
     "sku": "503539-002",
     "storageKey": "RETRO_2011_ANTHRACITE",
     "story": "ブラックとアンスラサイトのダークなトーンに、随所のレッドがアクセントとなる一足。",
-    "purchaseDate": "2011/10/27",
-    "purchasePrice": "$160",
+    "releaseDate": "2011/10/27",
+    "releasePrice": "$160",
     "gender": "M",
     "types": ["AJKO"]
   }
