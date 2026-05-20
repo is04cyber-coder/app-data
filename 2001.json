@@ -8,8 +8,8 @@
     "sku": "136060-001",
     "storageKey": "RETRO_2001_COJP_SILVER",
     "story": "日本限定2001足。シリアルナンバー入りでアタッシュケースに収められた伝説の「銀ジャケ」。",
-    "purchaseDate": "2001/01/01",
-    "purchasePrice": "¥26,250",
+    "releaseDate": "2001/01/01",
+    "releasePrice": "¥26,250",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -22,8 +22,8 @@
     "sku": "136060-111",
     "storageKey": "RETRO_2001_COJP_WHITE",
     "story": "ホワイトをベースにしたクリーンな一足。co.jp初期ラインナップの一つ。日本限定3000足",
-    "purchaseDate": "2001/08/14",
-    "purchasePrice": "¥12,600",
+    "releaseDate": "2001/08/14",
+    "releasePrice": "¥12,600",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -36,8 +36,8 @@
     "sku": "136060-101",
     "storageKey": "RETRO_2001_COJP_NAVY",
     "story": "2020年にも復刻された人気カラー。当時は日本限定として登場。日本限定3000足",
-    "purchaseDate": "2001/09/09",
-    "purchasePrice": "¥12,600",
+    "releaseDate": "2001/09/09",
+    "releasePrice": "¥12,600",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -50,8 +50,8 @@
     "sku": "136066-061",
     "storageKey": "RETRO_2001_BRED",
     "story": "シリアルナンバー入りのキーホルダーが付属。初の本格的なBred復刻。",
-    "purchaseDate": "2001/09/10",
-    "purchasePrice": "¥12,600",
+    "releaseDate": "2001/09/10",
+    "releasePrice": "¥12,600",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -64,8 +64,8 @@
     "sku": "136060-002",
     "storageKey": "RETRO_2001_COJP_BLACK",
     "story": "co.jpシリーズのブラック。シルバーのスウッシュが映える一足。日本限定3000足",
-    "purchaseDate": "2001/10/01",
-    "purchasePrice": "¥12,600",
+    "releaseDate": "2001/10/01",
+    "releasePrice": "¥12,600",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -78,8 +78,8 @@
     "sku": "136066-041",
     "storageKey": "RETRO_2001_ROYAL",
     "story": "Bredと共に復刻されたRoyal。当時の質感は今でも根強いファンが多い。シリアルナンバー付き50000足限定",
-    "purchaseDate": "2001/10/06",
-    "purchasePrice": "¥12,600",
+    "releaseDate": "2001/10/06",
+    "releasePrice": "¥12,600",
     "gender": "M",
     "types": ["RETRO"]
   }
