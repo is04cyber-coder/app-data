@@ -8,8 +8,8 @@
     "sku": "332550-011",
     "storageKey": "AJ1 RETRO HIGH BLACK WHITE 2008",
     "story": "「カウントダウンパック（CDP）」の一つとして登場した一足。1985年のオリジナルカラーである通称\"パンダ\"カラーを忠実に再現したレトロモデル。",
-    "purchaseDate": "2008/9/20",
-    "purchasePrice": "¥34,650",
+    "releaseDate": "2008/9/20",
+    "releasePrice": "¥34,650",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -22,8 +22,8 @@
     "sku": "332134-631",
     "storageKey": "RETRO_2008_GUCCI",
     "story": "「レッドグッチ」の愛称で親しまれる一足。グッチとのコラボではない",
-    "purchaseDate": "2008/11/08",
-    "purchasePrice": "$115",
+    "releaseDate": "2008/11/08",
+    "releasePrice": "$115",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -36,8 +36,8 @@
     "sku": "345204-041",
     "storageKey": "RETRO_2008_DB",
     "story": "アメリカ ドーレンベッカー小児病院とのチャリティ企画。日本未発売",
-    "purchaseDate": "2008/11/14",
-    "purchasePrice": "-----",
+    "releaseDate": "2008/11/14",
+    "releasePrice": "-----",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -50,8 +50,8 @@
     "sku": "342132-061",
     "storageKey": "AJ1 HIGH STRAP BRED 2008",
     "story": "ストラップ付きのAJ1。取り外し可能なアンクルストラップが最大の特徴で、当時のジョーダンブランドとしては斬新なアレンジモデルとして話題を呼んだ一足。日本未発売",
-    "purchaseDate": "2008/11/22",
-    "purchasePrice": "$110",
+    "releaseDate": "2008/11/22",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["STRAP"]
   },
@@ -64,8 +64,8 @@
     "sku": "342132-011",
     "storageKey": "AJ1 HIGH STRAP BLACK WHITE 2008",
     "story": "アッパーに耐久性の高いキャンバス素材を採用したストラップモデル。モノトーンのシンプルな配色ながら、異素材感とアンクルストラップが独特の存在感を放つ一足。日本未発売",
-    "purchaseDate": "2008/11/22",
-    "purchasePrice": "$110",
+    "releaseDate": "2008/11/22",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["STRAP"]
   },
@@ -78,8 +78,8 @@
     "sku": "342132-101",
     "storageKey": "AJ1 RETRO HIGH STRAP WHITE BLACK RED",
     "story": "ホワイトとブラックのコントラストに、アウトソールのレッドが映える。取り外し可能なアンクルストラップには、当時のモデル特有のボーダーラインが配されている。",
-    "purchaseDate": "2008/11/22",
-    "purchasePrice": "$110",
+    "releaseDate": "2008/11/22",
+    "releasePrice": "$110",
     "gender": "M",
     "types": ["STRAP"]
   },
@@ -92,8 +92,8 @@
     "sku": "375352-101",
     "storageKey": "AJ1_HI_OG_STRAP_PREMIER_OLYMPIC",
     "story": "北京オリンピックを記念してリリースされたモデル。上質なレザーを使用し白・赤・紺・金の配色が特徴。日本未発売",
-    "purchaseDate": "2008",
-    "purchasePrice": "$180",
+    "releaseDate": "2008",
+    "releasePrice": "$180",
     "gender": "M",
     "types": ["STRAP"]
   }
