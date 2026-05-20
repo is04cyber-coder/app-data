@@ -8,8 +8,8 @@
     "sku": "130207-101",
     "storageKey": "RETRO_1994_CHICAGO",
     "story": "オリジナル発売から約10年後に登場した初の復刻モデル。専用の復刻ボックスやブックレットが付属した記念碑的一足。",
-    "purchaseDate": "1994/01/01",
-    "purchasePrice": "¥15,800",
+    "releaseDate": "1994/01/01",
+    "releasePrice": "¥15,800",
     "gender": "M",
     "types": ["RETRO"]
   },
@@ -22,8 +22,8 @@
     "sku": "130207-061",
     "storageKey": "RETRO_1994_BRED",
     "story": "1994年にChicagoと共に復刻。当時のクオリティやフォルムはオリジナルの再現度が非常に高く、コレクターに愛される名作。",
-    "purchaseDate": "1994/01/01",
-    "purchasePrice": "¥15,800",
+    "releaseDate": "1994/01/01",
+    "releasePrice": "¥15,800",
     "gender": "M",
     "types": ["RETRO"]
   }
